@@ -26,6 +26,7 @@
   <a href="https://t.me/adroexx" text-decoration="none">
     <img src="https://img.shields.io/badge/Telegram-@adroexx-blue?style=flat&logo=telegram">
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/ali-boorboor-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-Ali--boorboor--developer-white?style=flat&logo=linkedin">
   </a>
