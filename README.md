@@ -1,16 +1,5 @@
 <h1 align="center">Hi there &nbsp;👋<h1/>
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" /><br><br>
-  
-```javascript
-  let introduction = {
-    name: 'Ali',
-    lastName: 'boorboor',
-    age: 20,
-    occupation: 'junior front-end developer',
-    UniversityMajor: 'computer engineering',
-  }
-```
-
 <h2>😎 &nbsp; Introduction :</h2>
 <p>
   I’m Ali, a junior front end developer.
