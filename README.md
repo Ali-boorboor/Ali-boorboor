@@ -31,6 +31,11 @@ let Introduction = {
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </div>
 <br>
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-boorboor&hide_progress=true)
+</div>
+<br>
 <h2>📞&nbsp; Contact me :</h2>
 <p align="center">
   <a href="https://t.me/adroexx" text-decoration="none">
