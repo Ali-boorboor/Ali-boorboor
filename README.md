@@ -8,6 +8,16 @@
   I am always eager to learn new things and improve my skills :)
   If you are interested in working with me, please feel free to contact me.
 </p>
+  
+```javascript
+let Introduction = {
+  name: 'Ali',
+  lastName: 'boorboor',
+  age: 20,
+  occupation: 'junior front-end developer',
+  UniversityMajor: 'computer engineering',
+}
+```
 <br>
 <h2>👨‍💻&nbsp; skills :</h3>
 <div align="center">
