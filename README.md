@@ -20,8 +20,7 @@ let Introduction = {
 ```
 <br>
 <h2>👨‍💻&nbsp; skills :</h3>
-<div align="center">
-  
+<!-- <div align="center">
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -30,9 +29,11 @@ let Introduction = {
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-</div>
+</div> -->
 <br>
 <div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,git,github,vite)](https://skillicons.dev)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-boorboor&hide_progress=true)
 </div>
@@ -41,6 +42,7 @@ let Introduction = {
   <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/CSS-gif.gif" width="100">
   <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/javascript.gif" width="100">
   <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/vscode.gif" width="100">
+  <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/github.gif" width="100">
 </p>
 <br>
 <h2>📞&nbsp; Contact me :</h2>
