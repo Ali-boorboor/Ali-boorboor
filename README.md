@@ -42,6 +42,10 @@ let Introduction = {
     <img src="https://img.shields.io/badge/Telegram-@adroexx-blue?style=flat&logo=telegram">
   </a>
   <br>
+  <a href="https://www.instagram.com/adroexx">
+    <img src="https://img.shields.io/badge/Instagram-@adroexx-red?style=flat&logo=instagram">
+  </a>
+  <br>
   <a href="https://www.linkedin.com/in/ali-boorboor-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-Ali--boorboor--developer-white?style=flat&logo=linkedin">
   </a>
