@@ -35,6 +35,12 @@ let Introduction = {
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-boorboor&hide_progress=true)
 </div>
+<p align="center">
+  <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/HTML-gif.gif" width="100">
+  <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/CSS-gif.gif" width="100">
+  <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/javascript.gif" width="100">
+  <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/vscode.gif" width="100">
+</p>
 <br>
 <h2>📞&nbsp; Contact me :</h2>
 <p align="center">
@@ -49,4 +55,9 @@ let Introduction = {
   <a href="https://www.linkedin.com/in/ali-boorboor-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-Ali--boorboor--developer-white?style=flat&logo=linkedin">
   </a>
+</p>
+<p align="center"><img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/linkedIn.gif" width="100"></p>
+<p align="center">
+  <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/programming.gif" width="400">
+  <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/funny-designer.gif" width="400">
 </p>
