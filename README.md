@@ -35,7 +35,7 @@ let Introduction = {
 <div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,git,github,vite)](https://skillicons.dev)
-  <img src='https://github.com/Ali-boorboor/Ali-boorboor/blob/main/npm-icon.png'>
+  <div><img src='https://github.com/Ali-boorboor/Ali-boorboor/blob/main/npm-icon.png'></div>
   
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-boorboor&hide_progress=true) -->
 </div>
