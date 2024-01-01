@@ -58,7 +58,7 @@ let Introduction = {
   </a>
   <br>
   <a href="https://www.linkedin.com/in/Ali-boorboor/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ali--boorboor--developer-white?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Ali--boorboor-white?style=flat&logo=linkedin">
   </a>
 </p>
 <p align="center"><img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/linkedIn.gif" width="100"></p>
