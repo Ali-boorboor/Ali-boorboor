@@ -6,6 +6,7 @@
   I love building websites that are responsive, accessible, and engaging, using the latest technologies and best practices.
   I have experience working with HTML, CSS, JavaScript, tailwind, Sass and github.
   I am always eager to learn new things and improve my skills :)
+  I'm recently gaining knowledge in keykavoos zaman apprenticeship.
   If you are interested in working with me, please feel free to contact me.
 </p>
   
