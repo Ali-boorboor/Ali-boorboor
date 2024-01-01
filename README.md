@@ -2,11 +2,11 @@
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" /><br><br>
 <h2>😎 &nbsp; Introduction :</h2>
 <p>
-  I’m Ali, a junior front end developer.
-  I love building websites that are responsive, accessible, and engaging, using the latest technologies and best practices.
-  I have experience working with HTML, CSS, JavaScript, tailwind, Sass and github.
-  I am always eager to learn new things and improve my skills :)
-  I'm recently gaining knowledge in keykavoos zaman apprenticeship.
+  I’m Ali, a junior front end developer.<br>
+  I love building websites that are responsive, accessible, and engaging, using the latest technologies and best practices.<br>
+  I have experience working with HTML, CSS, JavaScript, tailwind, Sass and github and etc...<br>
+  I am always eager to learn new things and improve my skills :)<br>
+  I'm recently gaining knowledge in keykavoos zaman apprenticeship.<br>
   If you are interested in working with me, please feel free to contact me.
 </p>
   
