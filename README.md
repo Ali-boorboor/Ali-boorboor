@@ -4,7 +4,7 @@
 <p>
   I’m Ali, a junior front end developer.<br>
   I love building websites that are responsive, accessible, and engaging, using the latest technologies and best practices.<br>
-  I have experience working with HTML, CSS, JavaScript, tailwind, Sass and github and etc...<br>
+  I have experience working with HTML, CSS, JavaScript, tailwind, Sass and github and regex and...<br>
   I am always eager to learn new things and improve my skills :)<br>
   I'm recently gaining knowledge in keykavoos zaman apprenticeship.<br>
   If you are interested in working with me, please feel free to contact me.
@@ -35,7 +35,7 @@ let Introduction = {
 <br>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,git,github,vite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,git,github,vite,regex)](https://skillicons.dev)
   <div><img src='https://github.com/Ali-boorboor/Ali-boorboor/blob/main/npm-icon.png'></div>
   
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-boorboor&hide_progress=true) -->
