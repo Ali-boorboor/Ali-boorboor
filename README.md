@@ -35,7 +35,7 @@ let Introduction = {
 <br>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react)](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,next)](https://skillicons.dev)<br>
   [![My Skills](https://skillicons.dev/icons?i=git,github,vite,regex,vscode)](https://skillicons.dev)
   <div><img src='https://github.com/Ali-boorboor/Ali-boorboor/blob/main/npm-icon.png'></div>
   
