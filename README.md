@@ -34,7 +34,8 @@ let Introduction = {
 <br>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,next)](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,mui)](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,cypress)](https://skillicons.dev)<br>
   [![My Skills](https://skillicons.dev/icons?i=git,github,vite,npm,pnpm,regex,vscode)](https://skillicons.dev)
   <!-- <div><img src='https://github.com/Ali-boorboor/Ali-boorboor/blob/main/npm-icon.png'></div> -->
   
