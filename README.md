@@ -2,7 +2,7 @@
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" /><br><br>
 <h2>😎 &nbsp; Introduction :</h2>
 <p>
-  I’m Ali, a junior front end developer.<br>
+  I’m Ali, a front end developer.<br>
   I love building websites that are responsive, accessible, and engaging, using the latest technologies and best practices.<br>
   I have experience working with HTML, CSS, JavaScript, tailwind, Sass and github and regex and...<br>
   I am always eager to learn new things and improve my skills :)<br>
