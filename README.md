@@ -2,9 +2,8 @@
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" /><br><br>
 <h2>😎 &nbsp; Introduction :</h2>
 <p>
-  I’m Ali, a front end developer.<br>
+  I’m Ali, a Developer.<br>
   I love building websites that are responsive, accessible, and engaging, using the latest technologies and best practices.<br>
-  I have experience working with HTML, CSS, JavaScript, tailwind, Sass and github and regex and...<br>
   I am always eager to learn new things and improve my skills :)<br>
   If you are interested in working with me, please feel free to contact me.
 </p>
@@ -14,8 +13,8 @@ let Introduction = {
   name: 'Ali',
   lastName: 'boorboor',
   age: 20,
-  occupation: 'Front-end developer',
-  UniversityMajor: 'computer engineering',
+  occupation: 'Frontend / Backend Developer',
+  UniversityMajor: 'Computer Engineering',
 }
 ```
 <br>
@@ -36,6 +35,7 @@ let Introduction = {
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,mui)](https://skillicons.dev)<br>
   [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,cypress)](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql)](https://skillicons.dev)<br>
   [![My Skills](https://skillicons.dev/icons?i=git,github,vite,npm,pnpm,regex,vscode)](https://skillicons.dev)
   <!-- <div><img src='https://github.com/Ali-boorboor/Ali-boorboor/blob/main/npm-icon.png'></div> -->
   
