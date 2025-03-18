@@ -41,6 +41,10 @@ let Introduction = {
   
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-boorboor&hide_progress=true) -->
 </div>
+<p align="center"> 
+  <img width="60px" height="60px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastify.png">
+  <img width="60px" height="60px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png">
+</p>
 <p align="center">
   <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/HTML-gif.gif" width="100">
   <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/CSS-gif.gif" width="100">
