@@ -43,7 +43,17 @@ let Introduction = {
 </div>
 <p align="center"> 
   <img width="60px" height="60px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastify.png">
+  
   <img width="60px" height="60px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png">
+  <img width="60px" height="60px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png">
+  <img width="60px" height="60px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png">
+  <img width="60px" height="60px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png">
+  <img width="60px" height="60px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png">
+  <img width="60px" height="60px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png">
+  
+  <img width="60px" height="60px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png">
+  
+  
 </p>
 <p align="center">
   <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/HTML-gif.gif" width="100">
