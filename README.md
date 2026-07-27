@@ -9,11 +9,11 @@
 </p>
   
 ```javascript
-let Introduction = {
+const introduction = {
   name: 'Ali',
   lastName: 'boorboor',
-  age: 20,
-  occupation: 'Web Developer',
+  age: 22,
+  occupation: 'front-end Developer',
   UniversityMajor: 'Computer Engineering',
 }
 ```
