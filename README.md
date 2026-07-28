@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src='https://readme-typing-svg.demolab.com/?font=Itim&size=40&duration=2000&pause=3000&color=00bcff&center=true&repeat=true&width=600&height=60&lines=Hi%20there%2C+I%27m+Ali%20!' />
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mouse+Memoirs&size=40&duration=3000&pause=1000&color=00BCFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Ali;A+Front-End+Developer)](https://git.io/typing-svg)
 </h1>
 
 <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/github-contribution-snake.svg" />
