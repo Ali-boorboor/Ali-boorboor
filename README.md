@@ -2,7 +2,7 @@
   <img src='https://readme-typing-svg.demolab.com/?font=Itim&size=40&duration=2000&pause=3000&color=00bcff&center=true&repeat=true&width=600&height=60&lines=Hi%20there%2C+I%27m+Ali%20!' />
 </h1>
 
-<img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+<img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/github-contribution-snake.svg" />
 
 <h2>😎 &nbsp; Introduction :</h2>
 
