@@ -45,9 +45,9 @@ const introduction = {
 <h2>📊&nbsp; Stats :</h3>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Ali-boorboor&rank_icon=github&custom_title=Ali%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=react" width="503" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Ali-boorboor&rank_icon=github&custom_title=Ali%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=react" />
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ali-boorboor&layout=donut&hide_title=true&langs_count=5&theme=react" width="397" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ali-boorboor&layout=donut&langs_count=5&theme=react" />
 </div>
 
 <h2>📞&nbsp; Contact me :</h2>
