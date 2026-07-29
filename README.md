@@ -47,7 +47,7 @@ const introduction = {
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Ali-boorboor&rank_icon=github&custom_title=Ali%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=react" />
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ali-boorboor&layout=donut&langs_count=5&theme=react" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ali-boorboor&hide_title=true&layout=donut&langs_count=5&theme=react" />
 </div>
 
 <h2>📞&nbsp; Contact me :</h2>
