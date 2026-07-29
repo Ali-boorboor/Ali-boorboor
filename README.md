@@ -47,7 +47,7 @@ const introduction = {
 <h2>📞&nbsp; Contact me :</h2>
 
 <div align="center">
-  <a href="https://t.me/adroexx">
+  <a href="https://t.me/Ali_w01rk">
     <img src="https://img.shields.io/badge/Telegram-@adroexx-blue?style=flat&logo=telegram">
   </a>
 
