@@ -46,8 +46,6 @@ const introduction = {
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Ali-boorboor&rank_icon=github&custom_title=Ali%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=react" />
-
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ali-boorboor&hide_title=true&layout=donut&langs_count=5&theme=react" />
 </div>
 
 <h2>📞&nbsp; Contact me :</h2>
@@ -68,6 +66,4 @@ const introduction = {
 
 <div align="center">
   <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/programming.gif" width="400">
-
-  <img src="https://github.com/Ali-boorboor/Ali-boorboor/blob/main/funny-designer.gif" width="400">
 </div>
