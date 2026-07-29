@@ -24,7 +24,7 @@ const introduction = {
 };
 ```
 
-<h2>👨‍💻&nbsp; skills :</h3>
+<h2>👨‍💻&nbsp; Skills :</h3>
 
 <h3>Programming Languages :</h3>
 
@@ -42,7 +42,13 @@ const introduction = {
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vite,npm,pnpm)](https://skillicons.dev)
 
+<h2>📊&nbsp; Stats :</h3>
 
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Ali-boorboor&rank_icon=github&custom_title=Ali%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=react" width="503" />
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ali-boorboor&layout=donut&hide_title=true&langs_count=5&theme=react" width="397" />
+</div>
 
 <h2>📞&nbsp; Contact me :</h2>
 
@@ -50,9 +56,7 @@ const introduction = {
   <a href="https://t.me/Ali_w01rk">
     <img src="https://img.shields.io/badge/Telegram-@adroexx-blue?style=flat&logo=telegram">
   </a>
-
   <br/>
-
   <a href="https://www.linkedin.com/in/Ali-boorboor/">
     <img src="https://img.shields.io/badge/LinkedIn-Ali--boorboor-white?style=flat&logo=linkedin">
   </a>
