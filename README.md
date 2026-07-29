@@ -52,7 +52,7 @@ const introduction = {
 
 <div align="center">
   <a href="https://t.me/Ali_w01rk">
-    <img src="https://img.shields.io/badge/Telegram-@adroexx-blue?style=flat&logo=telegram">
+    <img src="https://img.shields.io/badge/Telegram-@Ali_w01rk-blue?style=flat&logo=telegram">
   </a>
   <br/>
   <a href="https://www.linkedin.com/in/Ali-boorboor/">
