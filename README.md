@@ -51,15 +51,15 @@ const introduction = {
 <h2>📞&nbsp; Contact me :</h2>
 
 <div align="center">
-  <a href="https://t.me/Ali_w01rk">
+  <a href="https://t.me/Ali_w01rk" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-@Ali%5Fw01rk-blue?style=flat&logo=telegram">
   </a>
   <br/>
-  <a href="https://www.linkedin.com/in/Ali-boorboor/">
+  <a href="https://www.linkedin.com/in/Ali-boorboor/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Ali--boorboor-white?style=flat">
   </a>
   <br/>
-  <a href="https://portfolio-three-chi-l541bxyevl.vercel.app/">
+  <a href="https://portfolio-three-chi-l541bxyevl.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/My-Website-blue?style=flat">
   </a>
 </div>
