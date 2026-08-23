@@ -56,7 +56,11 @@ const introduction = {
   </a>
   <br/>
   <a href="https://www.linkedin.com/in/Ali-boorboor/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ali--boorboor-white?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Ali--boorboor-white?style=flat">
+  </a>
+  <br/>
+  <a href="https://portfolio-three-chi-l541bxyevl.vercel.app/">
+    <img src="https://img.shields.io/badge/My-Website-blue?style=flat">
   </a>
 </div>
 
